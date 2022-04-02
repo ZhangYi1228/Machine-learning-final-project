@@ -1,0 +1,658 @@
+{
+    "by_agent": {
+        "Yi_Zhang-Changjing_Hu_agent": {
+            "bombs": 1440,
+            "coins": 201,
+            "crates": 2620,
+            "invalid": 159,
+            "kills": 16,
+            "moves": 10793,
+            "rounds": 100,
+            "score": 281,
+            "steps": 14046,
+            "suicides": 81,
+            "time": 62.041991233825684
+        },
+        "rule_based_agent_0": {
+            "bombs": 2017,
+            "coins": 251,
+            "crates": 3260,
+            "invalid": 676,
+            "kills": 10,
+            "moves": 21018,
+            "rounds": 100,
+            "score": 301,
+            "steps": 23787,
+            "suicides": 48,
+            "time": 63.97669291496277
+        },
+        "rule_based_agent_1": {
+            "bombs": 1984,
+            "coins": 223,
+            "crates": 3150,
+            "invalid": 661,
+            "kills": 22,
+            "moves": 20900,
+            "rounds": 100,
+            "score": 333,
+            "steps": 23612,
+            "suicides": 46,
+            "time": 62.2645537853241
+        },
+        "rule_based_agent_2": {
+            "bombs": 2173,
+            "coins": 222,
+            "crates": 3179,
+            "invalid": 737,
+            "kills": 17,
+            "moves": 22578,
+            "rounds": 100,
+            "score": 307,
+            "steps": 25563,
+            "suicides": 41,
+            "time": 68.73421812057495
+        }
+    },
+    "by_round": {
+        "Round 01 (2022-03-28 08-57-02)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 313,
+            "suicides": 3
+        },
+        "Round 02 (2022-03-28 08-57-06)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 192,
+            "suicides": 3
+        },
+        "Round 03 (2022-03-28 08-57-07)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 217,
+            "suicides": 3
+        },
+        "Round 04 (2022-03-28 08-57-09)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 3
+        },
+        "Round 05 (2022-03-28 08-57-13)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 3
+        },
+        "Round 06 (2022-03-28 08-57-19)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 07 (2022-03-28 08-57-22)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 238,
+            "suicides": 2
+        },
+        "Round 08 (2022-03-28 08-57-25)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 235,
+            "suicides": 3
+        },
+        "Round 09 (2022-03-28 08-57-27)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 243,
+            "suicides": 2
+        },
+        "Round 10 (2022-03-28 08-57-29)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 100 (2022-03-28 09-02-12)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 254,
+            "suicides": 3
+        },
+        "Round 11 (2022-03-28 08-57-32)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 12 (2022-03-28 08-57-37)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 13 (2022-03-28 08-57-42)": {
+            "coins": 9,
+            "kills": 3,
+            "steps": 237,
+            "suicides": 1
+        },
+        "Round 14 (2022-03-28 08-57-44)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 15 (2022-03-28 08-57-49)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 16 (2022-03-28 08-57-52)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 17 (2022-03-28 08-57-55)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 18 (2022-03-28 08-57-58)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 255,
+            "suicides": 2
+        },
+        "Round 19 (2022-03-28 08-58-00)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 254,
+            "suicides": 3
+        },
+        "Round 20 (2022-03-28 08-58-02)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 260,
+            "suicides": 2
+        },
+        "Round 21 (2022-03-28 08-58-05)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 351,
+            "suicides": 2
+        },
+        "Round 22 (2022-03-28 08-58-08)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 207,
+            "suicides": 3
+        },
+        "Round 23 (2022-03-28 08-58-10)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 24 (2022-03-28 08-58-13)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 25 (2022-03-28 08-58-20)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 248,
+            "suicides": 3
+        },
+        "Round 26 (2022-03-28 08-58-22)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 27 (2022-03-28 08-58-26)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 299,
+            "suicides": 3
+        },
+        "Round 28 (2022-03-28 08-58-29)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 29 (2022-03-28 08-58-32)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 30 (2022-03-28 08-58-36)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 202,
+            "suicides": 3
+        },
+        "Round 31 (2022-03-28 08-58-37)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 32 (2022-03-28 08-58-40)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 33 (2022-03-28 08-58-45)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 266,
+            "suicides": 2
+        },
+        "Round 34 (2022-03-28 08-58-47)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 336,
+            "suicides": 3
+        },
+        "Round 35 (2022-03-28 08-58-50)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 36 (2022-03-28 08-58-54)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 325,
+            "suicides": 3
+        },
+        "Round 37 (2022-03-28 08-58-57)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 38 (2022-03-28 08-59-01)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 234,
+            "suicides": 2
+        },
+        "Round 39 (2022-03-28 08-59-02)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 287,
+            "suicides": 2
+        },
+        "Round 40 (2022-03-28 08-59-05)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 262,
+            "suicides": 3
+        },
+        "Round 41 (2022-03-28 08-59-07)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 42 (2022-03-28 08-59-11)": {
+            "coins": 8,
+            "kills": 1,
+            "steps": 197,
+            "suicides": 3
+        },
+        "Round 43 (2022-03-28 08-59-14)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 241,
+            "suicides": 2
+        },
+        "Round 44 (2022-03-28 08-59-16)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 228,
+            "suicides": 3
+        },
+        "Round 45 (2022-03-28 08-59-18)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 46 (2022-03-28 08-59-21)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 216,
+            "suicides": 2
+        },
+        "Round 47 (2022-03-28 08-59-23)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 299,
+            "suicides": 2
+        },
+        "Round 48 (2022-03-28 08-59-26)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 310,
+            "suicides": 3
+        },
+        "Round 49 (2022-03-28 08-59-29)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 50 (2022-03-28 08-59-32)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 51 (2022-03-28 08-59-35)": {
+            "coins": 8,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 52 (2022-03-28 08-59-39)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 53 (2022-03-28 08-59-43)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 54 (2022-03-28 08-59-48)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 55 (2022-03-28 08-59-52)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 56 (2022-03-28 08-59-56)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 57 (2022-03-28 09-00-01)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 58 (2022-03-28 09-00-04)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 241,
+            "suicides": 3
+        },
+        "Round 59 (2022-03-28 09-00-06)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 330,
+            "suicides": 3
+        },
+        "Round 60 (2022-03-28 09-00-09)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 214,
+            "suicides": 3
+        },
+        "Round 61 (2022-03-28 09-00-10)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 166,
+            "suicides": 3
+        },
+        "Round 62 (2022-03-28 09-00-12)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 321,
+            "suicides": 2
+        },
+        "Round 63 (2022-03-28 09-00-16)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 393,
+            "suicides": 2
+        },
+        "Round 64 (2022-03-28 09-00-20)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 65 (2022-03-28 09-00-24)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 66 (2022-03-28 09-00-28)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 67 (2022-03-28 09-00-32)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 242,
+            "suicides": 3
+        },
+        "Round 68 (2022-03-28 09-00-34)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 311,
+            "suicides": 3
+        },
+        "Round 69 (2022-03-28 09-00-37)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 70 (2022-03-28 09-00-40)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 368,
+            "suicides": 3
+        },
+        "Round 71 (2022-03-28 09-00-43)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 232,
+            "suicides": 3
+        },
+        "Round 72 (2022-03-28 09-00-45)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 253,
+            "suicides": 2
+        },
+        "Round 73 (2022-03-28 09-00-47)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 231,
+            "suicides": 3
+        },
+        "Round 74 (2022-03-28 09-00-49)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 75 (2022-03-28 09-00-53)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 369,
+            "suicides": 3
+        },
+        "Round 76 (2022-03-28 09-00-55)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 77 (2022-03-28 09-00-59)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 295,
+            "suicides": 3
+        },
+        "Round 78 (2022-03-28 09-01-03)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 238,
+            "suicides": 3
+        },
+        "Round 79 (2022-03-28 09-01-05)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 80 (2022-03-28 09-01-09)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 263,
+            "suicides": 3
+        },
+        "Round 81 (2022-03-28 09-01-12)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 82 (2022-03-28 09-01-16)": {
+            "coins": 9,
+            "kills": 4,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 83 (2022-03-28 09-01-20)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 336,
+            "suicides": 2
+        },
+        "Round 84 (2022-03-28 09-01-24)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 253,
+            "suicides": 2
+        },
+        "Round 85 (2022-03-28 09-01-27)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 86 (2022-03-28 09-01-31)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 87 (2022-03-28 09-01-34)": {
+            "coins": 8,
+            "kills": 2,
+            "steps": 400,
+            "suicides": 0
+        },
+        "Round 88 (2022-03-28 09-01-37)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 278,
+            "suicides": 1
+        },
+        "Round 89 (2022-03-28 09-01-40)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 312,
+            "suicides": 3
+        },
+        "Round 90 (2022-03-28 09-01-42)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 197,
+            "suicides": 3
+        },
+        "Round 91 (2022-03-28 09-01-44)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 252,
+            "suicides": 2
+        },
+        "Round 92 (2022-03-28 09-01-46)": {
+            "coins": 9,
+            "kills": 3,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 93 (2022-03-28 09-01-50)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 295,
+            "suicides": 2
+        },
+        "Round 94 (2022-03-28 09-01-51)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 325,
+            "suicides": 3
+        },
+        "Round 95 (2022-03-28 09-01-55)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 2
+        },
+        "Round 96 (2022-03-28 09-01-58)": {
+            "coins": 9,
+            "kills": 3,
+            "steps": 274,
+            "suicides": 2
+        },
+        "Round 97 (2022-03-28 09-02-01)": {
+            "coins": 9,
+            "kills": 2,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 98 (2022-03-28 09-02-05)": {
+            "coins": 9,
+            "kills": 1,
+            "steps": 400,
+            "suicides": 1
+        },
+        "Round 99 (2022-03-28 09-02-08)": {
+            "coins": 9,
+            "kills": 0,
+            "steps": 400,
+            "suicides": 1
+        }
+    }
+}
